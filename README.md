@@ -8,12 +8,18 @@ I'm an undergraduate student passionate about **Software Engineering, Data Scien
 
 **Programming & Data Science:** Python, PyTorch, Scikit-Learn, NumPy, Pandas, Matplotlib, SQL  
 **Web Development:** React, TailwindCSS, Django, Node.js, REST APIs  
-**Data Visualization & BI:** PowerBI, Matplotlib, Seaborn  
+**Data Visualization & BI:** PowerBI, Matplotlib  
 **Tools & Other Technologies:** Git/GitHub, Jupyter, APIFY, OpenAI API
 
 ---
 
 ## 💻 Projects
+
+### [Sentiment Classification](https://github.com/b9nn/SentimentClassifier_NLP)
+- Model training using classical ML algorithms (Logistic Regression)  
+- Deep learning models implemented in **PyTorch** (RNNs, LSTMs, Transformers)  
+- Model evaluation with accuracy, F1-score, and ROC-AUC  
+- Explainability with SHAP or attention visualization  
 
 ### [CIFAR-10 Image Classification](https://github.com/b9nn/CIFAR10-PyTorch)
 - Fine-tuned a **pretrained ResNet18** using **PyTorch** to classify 10 image categories.  
