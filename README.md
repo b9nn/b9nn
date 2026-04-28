@@ -2,12 +2,12 @@
 
 Undergrad working on software engineering, data science, and ML.
 
-**Stack:** Python · PyTorch · React · Tailwind · Django · Node · SQL
+**Stack:** Python · PyTorch · TypeScript · React · Tailwind · Django · C++ · SQL
 
 ### Projects
 
-- **[Pique](https://github.com/b9nn/pique-habit-tracker)** — Fitness & wellness habit tracker built from a Figma prototype. React + Vite + Tailwind.
-- **[MealMinder](https://github.com/b9nn/MealMinder)** — Meal & grocery planner with React + Django + OpenAI-generated weekly plans.
-- **[Sentiment Classifier](https://github.com/b9nn/SentimentClassifier_NLP)** — Logistic Regression baseline + RNN/LSTM/Transformer models in PyTorch.
-- **[CIFAR-10](https://github.com/b9nn/CIFAR10-PyTorch)** — Fine-tuned ResNet18 image classifier with augmentation.
-- **[Titanic ML](https://github.com/b9nn/TitanicML)** — Random Forest survival prediction; 81% accuracy, AUC 0.88.
+- **[Argus Missile](https://github.com/b9nn/argus-missile)** — Arctic air-threat detection platform: ADS-B tracking + anomaly detection over Canadian Arctic airspace.
+- **[Pique](https://github.com/b9nn/pique-habit-tracker)** — Fitness & wellness habit tracker built end-to-end from a Figma prototype. React + Vite + Tailwind.
+- **[SafeShift](https://github.com/b9nn/SafeShift)** — Full-stack platform that monitors environmental data to flag unsafe working conditions and trigger incentive-based rewards.
+- **[FluidFlow](https://github.com/b9nn/FluidFlow)** — ML regression model predicting acoustic outputs of vocal-fold biomechanical models.
+- **[MealMinder](https://github.com/b9nn/MealMinder)** — Meal & grocery planner: React + Django + OpenAI-generated weekly meal plans.
