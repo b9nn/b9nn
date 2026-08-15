@@ -60,14 +60,8 @@ tinker   →  agent tooling, browser automation, anything with a feedback loop
 
 ### By the numbers
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=b9nn&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api?username=b9nn&show_icons=true&include_all_commits=true&hide_border=true&theme=default" height="165" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=b9nn&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b9nn&layout=compact&langs_count=8&hide_border=true&theme=default" height="165" alt="Top languages" />
-</picture>
+<img src="https://raw.githubusercontent.com/b9nn/b9nn/metrics-output/metrics/overview.svg" width="47%" align="top" alt="GitHub overview" />
+<img src="https://raw.githubusercontent.com/b9nn/b9nn/metrics-output/metrics/languages.svg" width="47%" align="top" alt="Most-used languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=b9nn&hide_border=true&theme=github-dark-blue&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&background=0D1117" />
@@ -83,7 +77,7 @@ tinker   →  agent tooling, browser automation, anything with a feedback loop
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=b9nn&area=true&hide_border=true" alt="Activity graph" />
 </picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=b9nn&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+<img src="https://raw.githubusercontent.com/b9nn/b9nn/metrics-output/metrics/achievements.svg" width="70%" alt="Achievements" />
 
 <img src="https://raw.githubusercontent.com/b9nn/b9nn/output/snake.svg" alt="Contribution snake" />
 
