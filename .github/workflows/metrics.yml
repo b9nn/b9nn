@@ -1,12 +1,9 @@
 name: Generate profile metrics
 
+# Nothing in the README references these cards right now, so this runs
+# on demand only. Re-add the schedule below if you put the stats back.
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
