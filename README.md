@@ -1,4 +1,4 @@
-## benjamin gladney
+## ben gladney
 
 shopify · toronto · uwaterloo
 
