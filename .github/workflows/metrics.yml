@@ -1,16 +1,10 @@
 name: Generate profile metrics
 
-# The README embeds these cards from the metrics-output branch, so they have to
-# stay fresh. Previously this was workflow_dispatch-only because nothing
-# referenced them; it now runs daily. Cards are committed to metrics-output,
-# never to main.
+# Nothing in the README references these cards — it embeds the snake instead —
+# so this runs on demand only. Cards live on metrics-output, never on main.
+# Re-add a schedule here if you put the stats back in the README.
 on:
-  schedule:
-    - cron: "0 6 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
