@@ -1,6 +1,6 @@
 ## hi, i'm ben
 
-shopify · toronto · uwaterloo
+shopify · toronto · university of waterloo
 
 [bengladney.com](https://bengladney.com)
 
