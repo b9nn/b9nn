@@ -1,6 +1,6 @@
 ## hi, i'm ben
 
-shopify · toronto · university of waterloo
+shopify · toronto · university of waterloo data science
 
 [bengladney.com](https://bengladney.com)
 
